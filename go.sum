@@ -1,8 +1,6 @@
-github.com/shekhar-jha/go-demo-module v0.2.0-beta h1:2xtU3KhxbxtgVAed8XPvG0iOPZQh77YvKnZ8hJkpfRE=
-github.com/shekhar-jha/go-demo-module v0.2.0-beta/go.mod h1:H6H6SL3hMK3G1pnAe8YUgi7iYhNQTyuVsj3NcG7pohU=
-github.com/shekhar-jha/go-demo-module/mod1 v0.2.1 h1:lYMr/9PoOqPigOH4dzw6lY3JP8TtUZVT6yLdQnyHCFI=
-github.com/shekhar-jha/go-demo-module/mod1 v0.2.1/go.mod h1:7MDDcZvY50SD5oA3kveG7Z+jmJc9ff6xHatqYRiDdZg=
-github.com/shekhar-jha/go-demo-module/mod2 v0.2.0 h1:cN7QRJoD5DNPf1ov4UIya04FRbiqKThmQmQUbdDxAn8=
-github.com/shekhar-jha/go-demo-module/mod2 v0.2.0/go.mod h1:WNCqK0PC81/1IpFhUjinwAtIzrsq4ckUKUqtxqR+l6A=
-github.com/shekhar-jha/go-demo-module/mod3 v0.1.0 h1:QespaZxl5vrAdS34SsQ47NDQx/puCcNs5s+QFFc8Lqw=
-github.com/shekhar-jha/go-demo-module/mod3 v0.1.0/go.mod h1:g8WntRkjlQyDVAkxtMwcIrx1ISwDYAq01RFkO/7Wh6Y=
+github.com/shekhar-jha/go-demo-module v0.1.0-alpha h1:JEWuvKZcN3kkvgRnZFUMOkODY7ZN47GHbhxxpwo1hpE=
+github.com/shekhar-jha/go-demo-module v0.1.0-alpha/go.mod h1:koTDH4xovOef8HlNNDeS5M7cQ3xZA7urrrLLeacwwKc=
+github.com/shekhar-jha/go-demo-module/mod1 v0.1.0 h1:NCeFAi3yWiqAWroPQvw9B7skYP+e8iDwyXmMRx3lFsI=
+github.com/shekhar-jha/go-demo-module/mod1 v0.1.0/go.mod h1:RDq80tIXrWivFhCwuohKA3ULXD1kfi30ogXrct2u5rs=
+github.com/shekhar-jha/go-demo-module/mod2 v0.1.0 h1:OFkEGXymutSAKVxpo3j59vL5gXQSVcRAxKPi/7qEPqc=
+github.com/shekhar-jha/go-demo-module/mod2 v0.1.0/go.mod h1:WNCqK0PC81/1IpFhUjinwAtIzrsq4ckUKUqtxqR+l6A=
